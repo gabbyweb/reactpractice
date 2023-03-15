@@ -3,7 +3,17 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+  
+      <h1 style={{backgroundColor:"skyblue", fontFamily:"sans-serif", color:"purple", height:"30rem", display:"flex", alignItems:"center", justifyContent:"center"}}>Codetrain is awesome, react works!!!</h1>
+
+
+
+
+
+
+
+
+    /*<div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -18,7 +28,7 @@ function App() {
           Learn React
         </a>
       </header>
-    </div>
+    </div>*/
   );
 }
 
